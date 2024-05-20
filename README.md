@@ -35,6 +35,14 @@ O Projeto Interdisciplinar é uma iniciativa avaliativa do primeiro semestre do 
 - Utilizar ferramentas de controle de versão como **Git** e **GitHub**.
 - É permitido o uso de linguagens de programação adicionais, frameworks e bibliotecas.
 
+## Aplicação
+
+O processo de criação da aplicação web envolveu várias etapas para assegurar um desenvolvimento eficiente e eficaz.
+A aplicação web pode ser acessada através dos seguintes links:
+
+- [Website](https://localize-jahu.github.io),
+- [Repositório do projeto](https://github.com/Localize-Jahu/Localize-Jahu.github.io).
+
 - - -
 
 Agradecemos a todos os envolvidos na realização deste projeto e esperamos que ele sirva como uma base sólida para futuros desenvolvimentos e aprendizados.
