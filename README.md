@@ -43,6 +43,14 @@ A aplicação web pode ser acessada através dos seguintes links:
 - [Website](https://localize-jahu.github.io),
 - [Repositório do projeto](https://github.com/Localize-Jahu/Localize-Jahu.github.io).
 
+## Fale conosco
+
+Se tiver alguma dúvida, sugestão ou feedback sobre a aplicação, não hesite em nos contatar. 
+Estamos aqui para ajudar e ouvir suas opiniões para melhorar continuamente o projeto.
+
+[Evelyn Cassinotte](mailto:evelyn.cassinotte@fatec.sp.gov.br)
+
+
 - - -
 
 Agradecemos a todos os envolvidos na realização deste projeto e esperamos que ele sirva como uma base sólida para futuros desenvolvimentos e aprendizados.
