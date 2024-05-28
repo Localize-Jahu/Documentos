@@ -202,7 +202,7 @@ Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, 
  
 ![Wireframe](Imagens/wireframe2.png)
 
-<sub>Fonte: Elaborado pelas autoras (2024)</sub>
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
 <sub>Figura 7 - Wireframe Desktop e Tablet - Cadastrar Evento</sub>
@@ -223,13 +223,138 @@ Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, 
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
+</div>
+
+#### Versão Mobile
+A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma experiência de usuário otimizada para dispositivos móveis. No Wireframe da versão Mobile, ajustamos a escala e reorganizamos os elementos para garantir uma navegação intuitiva e funcional em telas menores. Priorizamos a usabilidade e a acessibilidade, assegurando que todas as funcionalidades importantes estivessem facilmente acessíveis, mantendo a coerência visual e a identidade do Localize Jahu em todos os dispositivos. Da figura 10 até a figura 14, é mostrado os Wireframes da versão Mobile.
+
+<div align="center">
+
+<sub>Figura 10 - Wireframe Mobile - Home</sub>
+
+![Wireframe](Imagens/wireframe6.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+
+<sub>Figura 11 - Wireframe Mobile - Exibir Evento</sub>
+
+![Wireframe](Imagens/wireframe7.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+
+<sub>Figura 12 - Wireframe Mobile - Exibir Evento</sub>
+
+![Wireframe](Imagens/wireframe8.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 13 - Wireframe Mobile - Cadastrar Evento</sub>
+
+![Wireframe](Imagens/wireframe9.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 14 - Wireframe Mobile - Cadastrar Evento</sub>
+
+![Wireframe](Imagens/wireframe10.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+ 
+</div>
+
+### 5.5. Modelo de navegação
+O modelo de navegação permite que os visitantes se movam de uma página para outra com o mínimo esforço. Além disso, ele facilita a rápida identificação das relações entre as páginas, ajudando o usuário a decidir se deseja continuar em uma jornada específica dentro do site ou mudar para outra seção disponível. Na figura 15, é mostrado o modelo de navegação da aplicação.
+
+<div align="center">
+
+<sub>Figura 15 - Modelo de Navegação</sub>
+
+![Modelo Navegação](Imagens/modeloNavegacao.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 </div>
 
+## 6	PROTÓTIPO 
+Foi utilizado o Figma na elaboração do protótipo, visando gerar uma representação visual interativa da interface da aplicação web. Por meio dele, desenvolvemos uma versão funcional e realista do design, permitindo aos stakeholders testarem e aprimorarem o conceito antes da implementação final.
+
+Segue o link do protótipo: [PROTÓTIPO](https://www.figma.com/file/6b4daerIKXVNAeEldSNjRG/Modelos-Com-Grid?type=design&node-id=0%3A1&mode=design&t=wDsq5vqsbs1eH5YM-1)
+
+## 7	APLICAÇÃO
+O processo de criação da aplicação web envolveu diversas etapas para garantir um desenvolvimento eficiente e eficaz. A aplicação web está disponível através dos seguinte link: https://github.com/Localize-Jahu/Localize-Jahu.github.io e https://localize-jahu.github.io.
+
+#### HTML
+Foi utilizado o HTML para criar a estrutura da página, definindo elementos como cabeçalhos, parágrafos, listas e formulários. Também foram aplicadas tags semânticas do HTML5 para melhorar a acessibilidade e a indexação nos mecanismos de busca, garantindo uma base sólida para a aplicação.
+
+#### CSS
+No CSS foi empregado para estilizar os elementos HTML, aplicando cores, fontes, tamanhos, espaçamentos e outras propriedades visuais para criar um layout atraente e coeso. Técnicas de design responsivo foram utilizadas para garantir que a aplicação seja exibida de forma adequada em diferentes dispositivos e tamanhos de tela, adaptando-se automaticamente às necessidades do usuário.
+
+#### Javascript
+O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicação, melhorando a experiência do usuário nas páginas. Utilizamos essa linguagem para implementar diversas funcionalidades interativas e efeitos visuais. A biblioteca jQuery também foi usada para simplificar e agilizar o desenvolvimento de componentes interativos e responsivos, como o carrossel. Nas figuras 16 até 20, são mostradas as telas da versão Desktop. Na figura 21, é mostrado a tela principal da versão mobile.
+ 
+<div align="center">
+
+<sub>Figura 16 - Aplicação Desktop - Página Principal</sub>
+
+![Aplicação](Imagens/aplicacao1.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
+<sub>Figura 17 - Aplicação Desktop - Exibir Evento</sub>
+ 
+![Aplicação](Imagens/aplicacao2.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
+<sub>Figura 18 - Aplicação Desktop - Exibir Sobre Nós</sub>
+ 
+![Aplicação](Imagens/aplicacao3.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+
+<sub>Figura 19 - Aplicação Desktop - Cadastrar Evento</sub>
+ 
+![Aplicação](Imagens/aplicacao4.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+
+<sub>Figura 20 - Aplicação Desktop - Contato</sub>
+ 
+![Aplicação](Imagens/aplicacao5.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+
+<sub>Figura 21 - Aplicação Mobile - Página Principal</sub>
+ 
+![Aplicação](Imagens/aplicacao6.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+</sup></div>
+
+## 8	CONSIDERAÇÕES FINAIS
+Durante o processo de desenvolvimento da aplicação, foram adotadas diversas metodologias e ferramentas para garantir a eficácia e alinhamento com os objetivos do projeto. Desde a fase inicial de pesquisa, cada etapa foi meticulosamente planejada e executada para atender às demandas da comunidade de Jaú.
+
+No entanto, é importante reconhecer as limitações e desafios enfrentados ao longo do desenvolvimento. Restrições de tempo, recursos limitados e a complexidade de integração de diferentes funcionalidades foram alguns dos obstáculos encontrados. 
+
+A aplicação Localize Jahu tem o potencial de impactar positivamente a promoção da cultura local em Jaú, destacando artistas locais, eventos culturais e histórias da comunidade. Ao oferecer uma plataforma dedicada a essas expressões culturais, busca-se fortalecer e enriquecer os laços entre os membros da comunidade e apoiar o desenvolvimento artístico e cultural da região.
+
+## REFERÊNCIAS BIBLIOGRÁFICAS
+
+Fernando Cunha. Requisitos funcionais e não funcionais: o que são?  Disponível em: https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao. Acesso em: 29 abr. 2024.
+
+Casa do Desenvolvedor. Requisitos funcionais e não funcionais: o que são e como identificar? Disponível em: https://blog.casadodesenvolvedor.com.br/requisitos-funcionais-e-nao-funcionais/. Acesso em: 29 abr. 2024.
+
+Cursos PM3. Aplicação web: o que é, características, princípios e como criar. Disponível em: https://www.cursospm3.com.br/blog/aplicacao-web/. Acesso em: 29 abr. 2024.
+
+Navegação do site | Guia com dicas e boas práticas | Mailchimp. Disponível em: <https://mailchimp.com/pt-br/resources/best-practices-for-website-navigation/#:~:text=A%20estrutura%20de%20navega%C3%A7%C3%A3o%20permite>. Acesso em: 16 maio. 2024.
 
 ## Fale conosco
 
@@ -237,7 +362,6 @@ Se tiver alguma dúvida, sugestão ou feedback sobre a aplicação, não hesite 
 Estamos aqui para ajudar e ouvir suas opiniões para melhorar continuamente o projeto.
 
 [Evelyn Cassinotte](mailto:evelyn.cassinotte@fatec.sp.gov.br)
-
 
 - - -
 
