@@ -19,26 +19,26 @@ Aplicação Web que destaca artistas locais e eventos da comunidade na região d
 
 ## Sumário
 
-1	[DESCRIÇÃO DA APLICAÇÃO WEB](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#1-descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o-web)
-1.1	INTRODUÇÃO	
-1.2	MÉTODOS UTILIZADOS	
-1.3	CRONOGRAMA DO PROJETO	
-2	OBJETIVOS	
-2.1	GERAL	
-2.2	ESPECIFICOS	
-3	DOCUMENTO DE REQUISITOS	
-3.1	REQUISITOS FUNCIONAIS	
-3.2	REQUISITOS NÃO FUNCIONAIS	
-4	REGRAS DE NEGÓCIO	
-4.1	O QUE SERÁ ELABORADO?	
-4.2	COMO SERÁ ELABORADO?	
-4.3	PARA QUEM SERÁ ELABORADO?
-4.4	QUANTO VAI CUSTAR?
-5	DESIGN	
-6	PROTÓTIPO	
-7	APLICAÇÃO	
-8	CONSIDERAÇÕES FINAIS	
-REFERÊNCIAS BIBLIOGRÁFICAS	
+[1.	DESCRIÇÃO DA APLICAÇÃO WEB](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#1-descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o-web)
+[1.1	INTRODUÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#11-introdu%C3%A7%C3%A3o)
+[1.2	MÉTODOS UTILIZADOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#12-m%C3%A9todos-utilizados)
+[1.3	CRONOGRAMA DO PROJETO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#13cronograma-do-projeto)
+[2.	OBJETIVOS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#2-objetivos)
+[2.1	GERAL](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#21-geral)
+[2.2	ESPECIFICOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#22-especificos)
+[3.	DOCUMENTO DE REQUISITOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#3-documento-de-requisitos)
+[3.1	REQUISITOS FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#31-requisitos-funcionais)
+[3.2	REQUISITOS NÃO FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#32-requisitos-n%C3%A3o-funcionais)
+[4.	REGRAS DE NEGÓCIO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#4-regras-de-neg%C3%B3cio)
+[4.1	O QUE SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#41-o-que-ser%C3%A1-elaborado)	
+[4.2	COMO SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#42-como-ser%C3%A1-elaborado)
+[4.3	PARA QUEM SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#43-para-quem-ser%C3%A1-elaborado)
+[4.4	QUANTO VAI CUSTAR?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#44-quanto-vai-custar)
+[5.	DESIGN](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#5-design)
+[6.	PROTÓTIPO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#6prot%C3%B3tipo)
+[7.	APLICAÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#7aplica%C3%A7%C3%A3o)	
+[8.	CONSIDERAÇÕES FINAIS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#8considera%C3%A7%C3%B5es-finais)
+[REFERÊNCIAS BIBLIOGRÁFICAS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#refer%C3%AAncias-bibliogr%C3%A1ficas)
 
 
 
@@ -300,7 +300,7 @@ O modelo de navegação permite que os visitantes se movam de uma página para o
 
 </div>
 
-## 6	PROTÓTIPO 
+## 6.	PROTÓTIPO 
 Foi utilizado o Figma na elaboração do protótipo, visando gerar uma representação visual interativa da interface da aplicação web. Por meio dele, desenvolvemos uma versão funcional e realista do design, permitindo aos stakeholders testarem e aprimorarem o conceito antes da implementação final.
 
 Segue o link do protótipo: [PROTÓTIPO](https://www.figma.com/file/6b4daerIKXVNAeEldSNjRG/Modelos-Com-Grid?type=design&node-id=0%3A1&mode=design&t=wDsq5vqsbs1eH5YM-1)
@@ -362,7 +362,7 @@ O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicaç
 
 </sup></div>
 
-## 8	CONSIDERAÇÕES FINAIS
+## 8.	CONSIDERAÇÕES FINAIS
 Durante o processo de desenvolvimento da aplicação, foram adotadas diversas metodologias e ferramentas para garantir a eficácia e alinhamento com os objetivos do projeto. Desde a fase inicial de pesquisa, cada etapa foi meticulosamente planejada e executada para atender às demandas da comunidade de Jaú.
 
 No entanto, é importante reconhecer as limitações e desafios enfrentados ao longo do desenvolvimento. Restrições de tempo, recursos limitados e a complexidade de integração de diferentes funcionalidades foram alguns dos obstáculos encontrados. 
