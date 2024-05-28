@@ -20,44 +20,25 @@ Aplicação Web que destaca artistas locais e eventos da comunidade na região d
 ## Sumário
 
 [1.	DESCRIÇÃO DA APLICAÇÃO WEB](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#1-descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o-web)
-
-[1.1	INTRODUÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#11-introdu%C3%A7%C3%A3o)
-
-[1.2	MÉTODOS UTILIZADOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#12-m%C3%A9todos-utilizados)
-
-[1.3	CRONOGRAMA DO PROJETO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#13cronograma-do-projeto)
-
-[2.	OBJETIVOS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#2-objetivos)
-
-[2.1	GERAL](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#21-geral)
-
-[2.2	ESPECIFICOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#22-especificos)
-
-[3.	DOCUMENTO DE REQUISITOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#3-documento-de-requisitos)
-
-[3.1	REQUISITOS FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#31-requisitos-funcionais)
-
-[3.2	REQUISITOS NÃO FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#32-requisitos-n%C3%A3o-funcionais)
-
-[4.	REGRAS DE NEGÓCIO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#4-regras-de-neg%C3%B3cio)
-
-[4.1	O QUE SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#41-o-que-ser%C3%A1-elaborado)	
-
-[4.2	COMO SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#42-como-ser%C3%A1-elaborado)
-
-[4.3	PARA QUEM SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#43-para-quem-ser%C3%A1-elaborado)
-
-[4.4	QUANTO VAI CUSTAR?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#44-quanto-vai-custar)
-
-[5.	DESIGN](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#5-design)
-
-[6.	PROTÓTIPO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#6prot%C3%B3tipo)
-
-[7.	APLICAÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#7aplica%C3%A7%C3%A3o)	
-
-[8.	CONSIDERAÇÕES FINAIS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#8considera%C3%A7%C3%B5es-finais)
-
-[REFERÊNCIAS BIBLIOGRÁFICAS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#refer%C3%AAncias-bibliogr%C3%A1ficas)
+<br>[1.1	INTRODUÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#11-introdu%C3%A7%C3%A3o)
+<br>[1.2	MÉTODOS UTILIZADOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#12-m%C3%A9todos-utilizados)
+<br>[1.3	CRONOGRAMA DO PROJETO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#13cronograma-do-projeto)
+<br>[2.	OBJETIVOS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#2-objetivos)
+<br>[2.1	GERAL](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#21-geral)
+<br>[2.2	ESPECIFICOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#22-especificos)
+<br>[3.	DOCUMENTO DE REQUISITOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#3-documento-de-requisitos)
+<br>[3.1	REQUISITOS FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#31-requisitos-funcionais)
+<br>[3.2	REQUISITOS NÃO FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#32-requisitos-n%C3%A3o-funcionais)
+<br>[4.	REGRAS DE NEGÓCIO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#4-regras-de-neg%C3%B3cio)
+<br>[4.1	O QUE SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#41-o-que-ser%C3%A1-elaborado)	
+<br>[4.2	COMO SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#42-como-ser%C3%A1-elaborado)
+<br>[4.3	PARA QUEM SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#43-para-quem-ser%C3%A1-elaborado)
+<br>[4.4	QUANTO VAI CUSTAR?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#44-quanto-vai-custar)
+<br>[5.	DESIGN](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#5-design)
+<br>[6.	PROTÓTIPO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#6prot%C3%B3tipo)
+<br>[7.	APLICAÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#7aplica%C3%A7%C3%A3o)	
+<br>[8.	CONSIDERAÇÕES FINAIS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#8considera%C3%A7%C3%B5es-finais)
+<br>[REFERÊNCIAS BIBLIOGRÁFICAS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#refer%C3%AAncias-bibliogr%C3%A1ficas)
 
 
 ## 1. DESCRIÇÃO DA APLICAÇÃO WEB
