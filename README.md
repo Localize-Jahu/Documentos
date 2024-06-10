@@ -126,7 +126,7 @@ A aplicação deve ser acessível para pessoas com deficiências, seguindo as di
 O código-fonte da aplicação deve ser bem documentado, seguindo padrões de codificação e boas práticas de desenvolvimento, para facilitar a manutenção e futuras atualizações do sistema.
 
 ## 4. REGRAS DE NEGÓCIO
-Para a elaboração do modelo de negócio decidimos utilizar o Modelo de Negócio Canvas, no qual permite que planejemos de forma concisa e visual os principais aspectos da aplicação web, como seu público-alvo, proposta de valor, canais de distribuição, fontes de receita e estrutura de custos. Ajudando a equipe a entender o mercado, definir uma estratégia clara e criar valor para os usuários e a comunidade local de forma eficiente. Na figura 1 é mostrado o modelo de negócios canvas da aplicação.
+Para a elaboração do modelo de negócio decidimos utilizar o Modelo de Negócio Canvas, no qual permite que planejemos de forma concisa e visual os principais aspectos da aplicação web, como seu público-alvo, proposta de valor, canais de distribuição, fontes de receita e estrutura de custos. Ajudando a equipe a entender o mercado, definir uma estratégia clara e criar valor para os usuários e a comunidade local de forma eficiente. Na Figura 1 é mostrado o modelo de negócios canvas da aplicação.
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Devido ao caráter educacional e acadêmico deste projeto, não estamos consider
 O design do Localize Jahu será centrado na experiência do usuário, com uma interface limpa, intuitiva e atraente que facilite a navegação e a descoberta de artistas locais e eventos culturais em Jaú. 
 
 ### 5.1 Paleta de cor
-A paleta de cores do site foi cuidadosamente selecionada para refletir criatividade, inovação, elegância e curiosidade sobre a cena cultural de Jaú. Na figura 2, é apresentada a paleta de cores da aplicação.
+A paleta de cores do site foi cuidadosamente selecionada para refletir criatividade, inovação, elegância e curiosidade sobre a cena cultural de Jaú. Na Figura 2 é apresentada a paleta de cores da aplicação.
 
 <div align="center">
 
@@ -184,7 +184,7 @@ A paleta de cores do site foi cuidadosamente selecionada para refletir criativid
 </div>
 
 ### 5.2. Tipografia
-A tipografia é um aspecto fundamental do design do site, pois influencia diretamente a legibilidade, a estética e a experiência do usuário. Para o Localize Jahu escolhemos a fonte Roboto, conhecida por sua clareza, modernidade e versatilidade. Na figura 3, é mostrado um exemplo de uso da fonte Roboto.
+A tipografia é um aspecto fundamental do design do site, pois influencia diretamente a legibilidade, a estética e a experiência do usuário. Para o Localize Jahu escolhemos a fonte Roboto, conhecida por sua clareza, modernidade e versatilidade. Na Figura 3 é mostrado um exemplo de uso da fonte Roboto.
 
 <div align="center">
 
@@ -192,7 +192,7 @@ A tipografia é um aspecto fundamental do design do site, pois influencia direta
 
 ![Fonte Roboto](Imagens/figura3.png)
 
-<sup>Fonte: Roboto. Disponível em: <https://fonts.adobe.com/fonts/roboto>. Acesso em: 15 maio. 2024.</sup>
+<sup>Fonte: ADOBE (2024)</sup>
 
 </div>
 
@@ -200,7 +200,7 @@ A tipografia é um aspecto fundamental do design do site, pois influencia direta
 Figura 4 - Isotipo da Localize Jahu
 
 ### 5.3. Isotipo
-O Isotipo escolhido para a Localize Jahu desempenha um papel crucial na representação visual da marca e na comunicação de sua identidade única. Na figura4, é mostrado o Isotipo escolhido para aplicação.
+O Isotipo escolhido para a Localize Jahu desempenha um papel crucial na representação visual da marca e na comunicação de sua identidade única. Na Figura 4 é mostrado o Isotipo escolhido para aplicação.
 
 
 <div align="center">
@@ -217,7 +217,7 @@ O Isotipo escolhido para a Localize Jahu desempenha um papel crucial na represen
 Um Wireframe é uma representação esquemática e simplificada da disposição dos elementos da interface, sem considerar detalhes visuais como cores, imagens ou tipografia. Na concepção do Localize Jahu, o Wireframe foi uma etapa crucial no processo de design, pois permitiu a criação de uma estrutura visual básica que serviu como guia para o desenvolvimento do protótipo e da interface final. 
 
 #### Versão Desktop e Tablet
-Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, utilizamos um único modelo base. Esse modelo foi apenas ajustando a escala conforme necessário. Essa abordagem nos permitiu manter a consistência visual e funcional entre as diferentes versões, garantindo uma experiência de usuário fluida e intuitiva em ambos os dispositivos. Da figura 5 até a figura 12, é mostrado os Wireframes das versões Desktop e Tablet. 
+Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, utilizamos um único modelo base. Esse modelo foi apenas ajustando a escala conforme necessário. Essa abordagem nos permitiu manter a consistência visual e funcional entre as diferentes versões, garantindo uma experiência de usuário fluida e intuitiva em ambos os dispositivos. Da Figura 5 até a Figura 12 é mostrado os Wireframes das versões Desktop e Tablet. 
 
 <div align="center">
 
@@ -273,7 +273,7 @@ Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, 
 </div>
 
 #### Versão Mobile
-A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma experiência de usuário otimizada para dispositivos móveis. No Wireframe da versão Mobile, ajustamos a escala e reorganizamos os elementos para garantir uma navegação intuitiva e funcional em telas menores. Priorizamos a usabilidade e a acessibilidade, assegurando que todas as funcionalidades importantes estivessem facilmente acessíveis, mantendo a coerência visual e a identidade do Localize Jahu em todos os dispositivos. Da figura 13 até a figura 20, é mostrado os Wireframes da versão Mobile.
+A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma experiência de usuário otimizada para dispositivos móveis. No Wireframe da versão Mobile, ajustamos a escala e reorganizamos os elementos para garantir uma navegação intuitiva e funcional em telas menores. Priorizamos a usabilidade e a acessibilidade, assegurando que todas as funcionalidades importantes estivessem facilmente acessíveis, mantendo a coerência visual e a identidade do Localize Jahu em todos os dispositivos. Da Figura 13 até a Figura 20 é mostrado os Wireframes da versão Mobile.
 
 <div align="center">
 
@@ -333,7 +333,7 @@ A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma ex
 </div>
 
 ### 5.5. Modelo de navegação
-O modelo de navegação permite que os visitantes se movam de uma página para outra com o mínimo esforço. Além disso, ele facilita a rápida identificação das relações entre as páginas, ajudando o usuário a decidir se deseja continuar em uma jornada específica dentro do site ou mudar para outra seção disponível. Na figura 21, é mostrado o modelo de navegação da aplicação.
+O modelo de navegação permite que os visitantes se movam de uma página para outra com o mínimo esforço. Além disso, ele facilita a rápida identificação das relações entre as páginas, ajudando o usuário a decidir se deseja continuar em uma jornada específica dentro do site ou mudar para outra seção disponível. Na Figura 21 é mostrado o modelo de navegação da aplicação.
 
 <div align="center">
 
@@ -360,7 +360,7 @@ Foi utilizado o HTML para criar a estrutura da página, definindo elementos como
 No CSS foi empregado para estilizar os elementos HTML, aplicando cores, fontes, tamanhos, espaçamentos e outras propriedades visuais para criar um layout atraente e coeso. Técnicas de design responsivo foram utilizadas para garantir que a aplicação seja exibida de forma adequada em diferentes dispositivos e tamanhos de tela, adaptando-se automaticamente às necessidades do usuário.
 
 #### Javascript
-O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicação, melhorando a experiência do usuário nas páginas. Utilizamos essa linguagem para implementar diversas funcionalidades interativas e efeitos visuais. A biblioteca jQuery também foi usada para simplificar e agilizar o desenvolvimento de componentes interativos e responsivos, como o carrossel. Nas figuras 22 até 29, são mostradas as telas da versão Desktop. Na figura 30, é mostrado a tela principal da versão mobile.
+O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicação, melhorando a experiência do usuário nas páginas. Utilizamos essa linguagem para implementar diversas funcionalidades interativas e efeitos visuais. A biblioteca jQuery também foi usada para simplificar e agilizar o desenvolvimento de componentes interativos e responsivos, como o carrossel. Nas Figuras 22 até 29 são mostradas as telas da versão Desktop. Na Figura 30 é mostrado a tela principal da versão mobile.
  
 <div align="center">
 
