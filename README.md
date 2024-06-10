@@ -217,7 +217,7 @@ O Isotipo escolhido para a Localize Jahu desempenha um papel crucial na represen
 Um Wireframe é uma representação esquemática e simplificada da disposição dos elementos da interface, sem considerar detalhes visuais como cores, imagens ou tipografia. Na concepção do Localize Jahu, o Wireframe foi uma etapa crucial no processo de design, pois permitiu a criação de uma estrutura visual básica que serviu como guia para o desenvolvimento do protótipo e da interface final. 
 
 #### Versão Desktop e Tablet
-Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, utilizamos um único modelo base. Esse modelo foi apenas ajustando a escala conforme necessário. Essa abordagem nos permitiu manter a consistência visual e funcional entre as diferentes versões, garantindo uma experiência de usuário fluida e intuitiva em ambos os dispositivos. Da figura 5 até a figura 9, é mostrado os Wireframes das versões Desktop e Tablet. 
+Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, utilizamos um único modelo base. Esse modelo foi apenas ajustando a escala conforme necessário. Essa abordagem nos permitiu manter a consistência visual e funcional entre as diferentes versões, garantindo uma experiência de usuário fluida e intuitiva em ambos os dispositivos. Da figura 5 até a figura 12, é mostrado os Wireframes das versões Desktop e Tablet. 
 
 <div align="center">
 
@@ -252,53 +252,92 @@ Para o desenvolvimento dos Wireframes da aplicação web para Desktop e Tablet, 
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
+<sub>Figura 10 - Wireframe Desktop e Tablet - Realizar Login<sub>
+
+![Wireframe](Imagens/Imagem13.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 11 - Wireframe Desktop e Tablet - Cadastrar Usuário<sub>
+
+![Wireframe](Imagens/wireframe12.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 12 - Wireframe Desktop e Tablet - Recuperar Senha<sub>
+
+![Wireframe](Imagens/wireframe11.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
 </div>
 
 #### Versão Mobile
-A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma experiência de usuário otimizada para dispositivos móveis. No Wireframe da versão Mobile, ajustamos a escala e reorganizamos os elementos para garantir uma navegação intuitiva e funcional em telas menores. Priorizamos a usabilidade e a acessibilidade, assegurando que todas as funcionalidades importantes estivessem facilmente acessíveis, mantendo a coerência visual e a identidade do Localize Jahu em todos os dispositivos. Da figura 10 até a figura 14, é mostrado os Wireframes da versão Mobile.
+A versão mobile da aplicação foi desenvolvida com foco em proporcionar uma experiência de usuário otimizada para dispositivos móveis. No Wireframe da versão Mobile, ajustamos a escala e reorganizamos os elementos para garantir uma navegação intuitiva e funcional em telas menores. Priorizamos a usabilidade e a acessibilidade, assegurando que todas as funcionalidades importantes estivessem facilmente acessíveis, mantendo a coerência visual e a identidade do Localize Jahu em todos os dispositivos. Da figura 13 até a figura 20, é mostrado os Wireframes da versão Mobile.
 
 <div align="center">
 
-<sub>Figura 10 - Wireframe Mobile - Home</sub>
+<sub>Figura 13 - Wireframe Mobile - Home</sub>
 
 ![Wireframe](Imagens/wireframe6.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 11 - Wireframe Mobile - Exibir Evento</sub>
+<sub>Figura 14 - Wireframe Mobile - Exibir Evento</sub>
 
 ![Wireframe](Imagens/wireframe7.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 12 - Wireframe Mobile - Exibir Evento</sub>
+<sub>Figura 15 - Wireframe Mobile - Exibir Evento</sub>
 
 ![Wireframe](Imagens/wireframe8.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
-<sub>Figura 13 - Wireframe Mobile - Cadastrar Evento</sub>
+<sub>Figura 16 - Wireframe Mobile - Cadastrar Evento</sub>
 
 ![Wireframe](Imagens/wireframe9.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
-<sub>Figura 14 - Wireframe Mobile - Cadastrar Evento</sub>
+<sub>Figura 17 - Wireframe Mobile - Cadastrar Evento</sub>
 
 ![Wireframe](Imagens/wireframe10.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 18 - Wireframe Mobile - Realizar Login</sub>
+
+![Wireframe](Imagens/wireframe15.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+ 
+<sub>Figura 19 - Wireframe Mobile - Cadastrar Usuário</sub>
+
+![Wireframe](Imagens/wireframe14.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+ 
+<sub>Figura 20 - Wireframe Mobile - Recuperar Senha</sub>
+
+![Wireframe](Imagens/wireframe13.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
  
+ 
 </div>
 
 ### 5.5. Modelo de navegação
-O modelo de navegação permite que os visitantes se movam de uma página para outra com o mínimo esforço. Além disso, ele facilita a rápida identificação das relações entre as páginas, ajudando o usuário a decidir se deseja continuar em uma jornada específica dentro do site ou mudar para outra seção disponível. Na figura 15, é mostrado o modelo de navegação da aplicação.
+O modelo de navegação permite que os visitantes se movam de uma página para outra com o mínimo esforço. Além disso, ele facilita a rápida identificação das relações entre as páginas, ajudando o usuário a decidir se deseja continuar em uma jornada específica dentro do site ou mudar para outra seção disponível. Na figura 21, é mostrado o modelo de navegação da aplicação.
 
 <div align="center">
 
-<sub>Figura 15 - Modelo de Navegação</sub>
+<sub>Figura 21 - Modelo de Navegação</sub>
 
 ![Modelo Navegação](Imagens/modeloNavegacao.png)
 
@@ -321,48 +360,65 @@ Foi utilizado o HTML para criar a estrutura da página, definindo elementos como
 No CSS foi empregado para estilizar os elementos HTML, aplicando cores, fontes, tamanhos, espaçamentos e outras propriedades visuais para criar um layout atraente e coeso. Técnicas de design responsivo foram utilizadas para garantir que a aplicação seja exibida de forma adequada em diferentes dispositivos e tamanhos de tela, adaptando-se automaticamente às necessidades do usuário.
 
 #### Javascript
-O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicação, melhorando a experiência do usuário nas páginas. Utilizamos essa linguagem para implementar diversas funcionalidades interativas e efeitos visuais. A biblioteca jQuery também foi usada para simplificar e agilizar o desenvolvimento de componentes interativos e responsivos, como o carrossel. Nas figuras 16 até 20, são mostradas as telas da versão Desktop. Na figura 21, é mostrado a tela principal da versão mobile.
+O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicação, melhorando a experiência do usuário nas páginas. Utilizamos essa linguagem para implementar diversas funcionalidades interativas e efeitos visuais. A biblioteca jQuery também foi usada para simplificar e agilizar o desenvolvimento de componentes interativos e responsivos, como o carrossel. Nas figuras 22 até 29, são mostradas as telas da versão Desktop. Na figura 30, é mostrado a tela principal da versão mobile.
  
 <div align="center">
 
-<sub>Figura 16 - Aplicação Desktop - Página Principal</sub>
+<sub>Figura 22 - Aplicação Desktop - Página Principal</sub>
 
 ![Aplicação](Imagens/aplicacao1.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 17 - Aplicação Desktop - Exibir Evento</sub>
+<sub>Figura 23 - Aplicação Desktop - Exibir Evento</sub>
  
 ![Aplicação](Imagens/aplicacao2.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 18 - Aplicação Desktop - Exibir Sobre Nós</sub>
+<sub>Figura 24 - Aplicação Desktop - Exibir Sobre Nós</sub>
  
 ![Aplicação](Imagens/aplicacao3.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 19 - Aplicação Desktop - Cadastrar Evento</sub>
+<sub>Figura 25 - Aplicação Desktop - Cadastrar Evento</sub>
  
 ![Aplicação](Imagens/aplicacao4.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
 
-<sub>Figura 20 - Aplicação Desktop - Contato</sub>
+<sub>Figura 26 - Aplicação Desktop - Contato</sub>
  
 ![Aplicação](Imagens/aplicacao5.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
-
-<sub>Figura 21 - Aplicação Mobile - Página Principal</sub>
+<sub>Figura 27 - Aplicação Desktop - Realizar Login</sub>
  
 ![Aplicação](Imagens/aplicacao6.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 28 - Aplicação Desktop - Cadastrar Usuário</sub>
+ 
+![Aplicação](Imagens/aplicacao8.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 29 - Aplicação Desktop - Recuperar Senha</sub>
+ 
+![Aplicação](Imagens/aplicacao7.png)
+
+<sup>Fonte: Elaborado pelas autoras (2024)</sup>
+
+<sub>Figura 30 - Aplicação Mobile - Página Principal</sub>
+ 
+![Aplicação](Imagens/aplicacao9.png)
 
 <sup>Fonte: Elaborado pelas autoras (2024)</sup>
 
