@@ -434,6 +434,10 @@ A aplicação Localize Jahu tem o potencial de impactar positivamente a promoç�
 
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 
+ADOBE. Roboto. Disponível em: https://fonts.adobe.com/fonts/roboto. Acesso em: 15 maio 2024.
+
+### OBRAS CONSULTADAS
+
 Fernando Cunha. Requisitos funcionais e não funcionais: o que são?  Disponível em: https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao. Acesso em: 29 abr. 2024.
 
 Casa do Desenvolvedor. Requisitos funcionais e não funcionais: o que são e como identificar? Disponível em: https://blog.casadodesenvolvedor.com.br/requisitos-funcionais-e-nao-funcionais/. Acesso em: 29 abr. 2024.
