@@ -363,9 +363,10 @@ O JavaScript foi empregado para adicionar interatividade e dinamismo à aplicaç
 ## 8.	CONSIDERAÇÕES FINAIS
 Durante o processo de desenvolvimento da aplicação, foram adotadas diversas metodologias e ferramentas para garantir a eficácia e alinhamento com os objetivos do projeto. Desde a fase inicial de pesquisa, cada etapa foi meticulosamente planejada e executada para atender às demandas da comunidade de Jaú.
 
-No entanto, é importante reconhecer as limitações e desafios enfrentados ao longo do desenvolvimento. Restrições de tempo, recursos limitados e a complexidade de integração de diferentes funcionalidades foram alguns dos obstáculos encontrados. 
+No entanto, é importante reconhecer as limitações e desafios enfrentados ao longo do desenvolvimento. Restrições de tempo, recursos limitados e a complexidade de integração de diferentes funcionalidades foram alguns dos obstáculos encontrados. Além disso, é importante ressaltar que os objetivos desta fase inicial do projeto são poucos e não suficientes para uma aplicação que será desenvolvida no período de três anos. Estes objetivos iniciais só se referem à primeira fase do projeto. Durante as próximas fases, serão adicionadas funcionalidades que tragam mais visibilidade, engajamento e outras melhorias para a plataforma.
 
 A aplicação Localize Jahu tem o potencial de impactar positivamente a promoção da cultura local em Jaú, destacando artistas locais, eventos culturais e histórias da comunidade. Ao oferecer uma plataforma dedicada a essas expressões culturais, busca-se fortalecer e enriquecer os laços entre os membros da comunidade e apoiar o desenvolvimento artístico e cultural da região.
+
 
 ## REFERÊNCIAS BIBLIOGRÁFICAS
 
