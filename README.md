@@ -442,6 +442,24 @@ Cursos PM3. Aplicação web: o que é, características, princípios e como cria
 
 Navegação do site | Guia com dicas e boas práticas | Mailchimp. Disponível em: <https://mailchimp.com/pt-br/resources/best-practices-for-website-navigation/#:~:text=A%20estrutura%20de%20navega%C3%A7%C3%A3o%20permite>. Acesso em: 16 maio. 2024.
 
+ FIGMA. Figma Documentation. Disponível em: https://help.figma.com. Acesso em: 05 jun. 2024.
+ 
+GITHUB. GitHub Documentation. Disponível em: https://docs.github.com. Acesso em: 05 jun. 2024.
+
+GITHUB PAGES. GitHub Pages Documentation. Disponível em: https://pages.github.com. Acesso em: 05 jun. 2024.
+
+TRELLO. Trello Help. Disponível em: https://help.trello.com. Acesso em: 05 jun. 2024.
+
+STACK OVERFLOW. Stack Overflow: Where Developers Learn, Share, & Build Careers. Disponível em: https://stackoverflow.com. Acesso em: 05 jun. 2024.
+
+W3SCHOOLS. W3Schools Online Web Tutorials. Disponível em: https://www.w3schools.com/. Acesso em: 05 jun. 2024.
+
+CSS-TRICKS. A Complete Guide to Flexbox. Disponível em: https://css-tricks.com/snippets/css/a-guide-to-flexbox/. Acesso em: 05 jun. 2024.
+
+BRASILCODE. 35 Botões CSS com Animação. Disponível em: https://www.brasilcode.com.br/35-botoes-css-com-animacao/. Acesso em: 05 jun. 2024.
+
+CODEPEN. CodePen: Social Development Environment. Disponível em: https://codepen.io/. Acesso em: 05 jun. 2024.
+
 ## Fale conosco
 
 Se tiver alguma dúvida, sugestão ou feedback sobre a aplicação, não hesite em nos contatar. 
