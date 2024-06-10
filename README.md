@@ -98,6 +98,14 @@ Permite aos usuários conhecerem mais sobre os alunos que desenvolveram o site. 
 #### RF5 - Exibir Formulário de Contato
 A funcionalidade permite aos usuários acessarem informações de contato da equipe responsável pelo site. Essa seção inclui os campos de nome do usuário, endereço de e-mail do usuário, telefone e descrição. Os usuários podem acessar essa funcionalidade através de um link no menu de navegação do site.
 
+#### RF6 - Cadastrar Usuário
+A aplicação permitirá que novos usuários se cadastrem ao fornecerem as informações: nome completo, nome de usuário, endereço de e-mail, senha, telefone e CPF. Os usuários podem acessar essa funcionalidade através da página de login do site.
+
+#### RF7 - Realizar Login
+A funcionalidade permitirá que os usuários façam login fornecendo seu endereço de e-mail e senha. Os usuários podem acessar essas funcionalidades através do menu de navegação do site.
+
+#### RF8 - Recuperar Senha
+A aplicação deve permitir que os usuários solicitem a recuperação da senha fornecendo o endereço de e-mail associado à sua conta. Essa funcionalidade pode ser acessada através da página de login do site.
 
 ###	3.2. REQUISITOS NÃO FUNCIONAIS
 Os requisitos não funcionais referem-se às características e restrições do sistema que não estão diretamente relacionadas às suas funcionalidades principais, mas que são essenciais para garantir sua qualidade, desempenho e usabilidade. Eles abordam aspectos como segurança, desempenho, usabilidade, compatibilidade, confiabilidade e manutenibilidade do sistema, fornecendo diretrizes cruciais para o desenvolvimento e avaliação do software. Esses requisitos são fundamentais para assegurar que o sistema atenda aos padrões esperados de qualidade e satisfaça as necessidades dos usuários de forma abrangente.
