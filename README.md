@@ -15,8 +15,6 @@ Aplicação Web que destaca artistas locais e eventos da comunidade na região d
 - [Evelyn Nataly Aparecida Cassinotte](https://github.com/Evelyn-Cass),
 - [Lara Nicoly Ronchesel Ramos](https://github.com/llnick),
 - [Raissa Geovana Araujo](https://github.com/raissaaraujo1),
-- [Thais Silva de Lima](https://github.com/Thaislima96).
-
 ## Sumário
 
 [1.	DESCRIÇÃO DA APLICAÇÃO WEB](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#1-descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o-web)
