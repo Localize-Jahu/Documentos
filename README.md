@@ -14,30 +14,41 @@ Aplicação Web que destaca artistas locais e eventos da comunidade na região d
 - [Alissa Gabriel](https://github.com/AlissaGabriel), 
 - [Evelyn Nataly Aparecida Cassinotte](https://github.com/Evelyn-Cass),
 - [Lara Nicoly Ronchesel Ramos](https://github.com/llnick),
-- [Raissa Geovana Araujo](https://github.com/raissaaraujo1),
+- [Raissa Geovana Araujo](https://github.com/raissaaraujo1).
+  
 ## Sumário
 
-[1.	DESCRIÇÃO DA APLICAÇÃO WEB](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#1-descri%C3%A7%C3%A3o-da-aplica%C3%A7%C3%A3o-web)
-<br>[1.1	INTRODUÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#11-introdu%C3%A7%C3%A3o)
-<br>[1.2	MÉTODOS UTILIZADOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#12-m%C3%A9todos-utilizados)
-<br>[1.3	CRONOGRAMA DO PROJETO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#13cronograma-do-projeto)
-<br>[2.	OBJETIVOS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#2-objetivos)
-<br>[2.1	GERAL](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#21-geral)
-<br>[2.2	ESPECIFICOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#22-especificos)
-<br>[3.	DOCUMENTO DE REQUISITOS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#3-documento-de-requisitos)
-<br>[3.1	REQUISITOS FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#31-requisitos-funcionais)
-<br>[3.2	REQUISITOS NÃO FUNCIONAIS](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#32-requisitos-n%C3%A3o-funcionais)
-<br>[4.	REGRAS DE NEGÓCIO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#4-regras-de-neg%C3%B3cio)
-<br>[4.1	O QUE SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#41-o-que-ser%C3%A1-elaborado)	
-<br>[4.2	COMO SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#42-como-ser%C3%A1-elaborado)
-<br>[4.3	PARA QUEM SERÁ ELABORADO?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#43-para-quem-ser%C3%A1-elaborado)
-<br>[4.4	QUANTO VAI CUSTAR?](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#44-quanto-vai-custar)
-<br>[5.	DESIGN](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#5-design)
-<br>[6.	PROTÓTIPO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#6prot%C3%B3tipo)
-<br>[7.	APLICAÇÃO](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#7aplica%C3%A7%C3%A3o)	
-<br>[8.	CONSIDERAÇÕES FINAIS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#8considera%C3%A7%C3%B5es-finais)
-<br>[REFERÊNCIAS BIBLIOGRÁFICAS	](https://github.com/Localize-Jahu/Documentos?tab=readme-ov-file#refer%C3%AAncias-bibliogr%C3%A1ficas)
 
+## Índice
+1. [Descrição da Aplicação Web](#1-descrição-da-aplicação-web)
+   - [1.1 Introdução](#11-introdução)
+   - [1.2 Métodos Utilizados](#12-métodos-utilizados)
+   - [1.3 Cronograma do Projeto](#13-cronograma-do-projeto)
+2. [Objetivos](#2-objetivos)
+   - [2.1 Geral](#21-geral)
+   - [2.2 Específicos](#22-específicos)
+3. [Documento de Requisitos](#3-documento-de-requisitos)
+   - [3.1 Histórias de Usuário](#31-histórias-de-usuário)
+   - [3.2 Requisitos Funcionais](#32-requisitos-funcionais)
+   - [3.3 Requisitos Não Funcionais](#33-requisitos-não-funcionais)
+   - [3.4 Diagrama de Caso de Uso](#34-diagrama-de-caso-de-uso)
+   - [3.5 Diagrama de Classe](#35-diagrama-de-classe)
+4. [Estudo de Viabilidade](#4-estudo-de-viabilidade)
+   - [4.1 Viabilidade de Mercado](#41-viabilidade-de-mercado)
+   - [4.2 Viabilidade de Recursos](#42-viabilidade-de-recursos)
+   - [4.3 Viabilidade Operacional](#43-viabilidade-operacional)
+   - [4.4 Conclusão do Estudo de Viabilidade](#44-conclusão-do-estudo-de-viabilidade)
+5. [Regras de Negócio](#5-regras-de-negócio)
+   - [5.1 O Que Será Elaborado?](#51-o-que-será-elaborado)
+   - [5.2 Como Será Elaborado?](#52-como-será-elaborado)
+   - [5.3 Para Quem Será Elaborado?](#53-para-quem-será-elaborado)
+   - [5.4 Quanto Vai Custar?](#54-quanto-vai-custar)
+6. [Design](#6-design)
+7. [Banco de Dados](#7-banco-de-dados)
+8. [Protótipo](#8-protótipo)
+9. [Aplicação](#9-aplicação)
+10. [Considerações Finais](#10-considerações-finais)
+11. [Referências Bibliográficas](#referências-bibliográficas)
 
 ## 1. DESCRIÇÃO DA APLICAÇÃO WEB
 
