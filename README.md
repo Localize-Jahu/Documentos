@@ -18,4 +18,5 @@ Aplicação Web que destaca artistas locais e eventos da comunidade na região d
   
 ## Semestre
 
-- [Primeiro Semestre](https://github.com/Localize-Jahu/Documentos/blob/master/Primeiro%20Semestre/README.md)
+- [Primeiro Semestre](https://github.com/Localize-Jahu/Documentos/blob/master/Primeiro%20Semestre/)
+- [Segundo Semestre](https://github.com/Localize-Jahu/Documentos/tree/master/Segundo%20Semestre)
